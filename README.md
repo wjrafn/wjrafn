@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wjrafn, aka Wendy Rafn.
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m @wjrafn, aka Wendy Jones Rafn.
+- 🌱 I’m currently learning Python through a University of Washington PCE course.
 - 💞️ I’m looking to collaborate on entry level coding projects.  I'm currently expanding my horizons -- reviewing statistical methods and figuring out how to more efficiently analyze data from multiple sources.  It's beyond time to branch out of bad, rusty, old-school Accounting habits.
 - 📫 How to reach me:  Snail mail or a magical e-mail treasure hunt!  (Try using logical user names at at dagon.net!)
 - 😄 Pronouns:  She/Her
